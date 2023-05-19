@@ -1,0 +1,173 @@
+* {
+    /* margin: 0; */
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-around;
+    background-color: cadetblue;
+    padding: 20px;
+}
+
+.menu button{
+    width: 120px;
+    height: 50px;
+}
+
+ul {
+    display: flex;
+}
+
+li {
+    padding-left: 13px;
+    list-style: none;
+}
+
+button {
+    padding: 10px 25px;
+    border-radius: 5px;
+    background-color: crimson;
+    color: rgb(0, 0, 0);
+}
+
+.las {
+    padding-right: 5px;
+    font-size: large;
+}
+
+.lab {
+    padding-left: 6px;
+    font-size: large;
+}
+
+.primary {
+    width: 76%;
+    margin: 0 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-right: 10px;
+}
+
+.primary img {
+    width: 700px;
+    height: 740px;
+    margin-right: 20%;
+    margin-top: 20%;
+}
+
+.primarytext {
+    width: 38%;
+    margin-top: 130px;
+    margin-left: 50px;
+    height: 400px;
+}
+
+.primarytext h1 {
+    font-size: 45px;
+}
+
+.secondtext {
+    margin-top: 50px;
+    font-size: 22px;
+    font-family: 'Cormorant Garamond', serif;
+}
+
+.space {
+    width: 60px;
+    height: 42px;
+    margin-right: 8px;
+    margin-top: 6px;
+}
+
+.btn {
+    padding: 5px;
+}
+
+.btn :hover {
+    background-color: black;
+    color: white;
+}
+
+.dtflex {
+    display: flex;
+    margin-top: 10px;
+}
+
+.allshopping {
+    width: 100%;
+    height: 650px;
+    background-color: darkgray;
+    margin-top: 220px;
+    padding-top: 30px;
+}
+
+.allshopping h1 {
+    margin-left: 150px;
+    margin-top: 30px;
+}
+
+.center {
+    margin: 0 10%;
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.product1 {
+    border: 3px solid rgb(46, 52, 152);
+    width: 250px;
+    height: 400px;
+    margin-top: 5%;
+    margin-left: 4%;
+}
+
+.text3 h2 {
+    padding-left: 58px;
+    margin-top: 4px;
+    height: 20px;
+}
+
+.text3 span {
+    padding-left: 78px;
+}
+
+.button1 {
+    margin-top: 10px;
+    margin-left: 60px;
+}
+
+button {
+    background-color: white;
+}
+
+button:hover {
+    background-color: black;
+    color: white;
+}
+
+.photo img {
+    width: 100%;
+}
+
+.st {
+    margin-top: 3px !important;
+    margin-left: 1px;
+    color: yellow;
+}
+
+.text3 {
+    height: 100px;
+    padding-top: 8px;
+}
+
+.button3 {
+    margin-top: 25px;
+    margin-left: 50px;
+}
+
+.text7 {
+    margin-left: 13px;
+}
